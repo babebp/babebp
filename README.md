@@ -2,6 +2,7 @@
 
 I'm interested in Python
 
+- 🌱 I’m currently learning **Data Engineer coureses**
 
 ## Where you can find me 👇
 
