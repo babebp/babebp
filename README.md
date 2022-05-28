@@ -12,4 +12,4 @@ I'm interested in Python
 
 ## Things I code with 💖
 
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
