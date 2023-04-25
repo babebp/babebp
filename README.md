@@ -1,8 +1,5 @@
 # Hi I'm Babe 😊
-
-I'm interested in Python
-
-- 🌱 I’m currently learning **Data Engineer coureses**
+- 🌱
 
 
 
