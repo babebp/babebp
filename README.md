@@ -14,3 +14,10 @@
 ## Things I code with 💖
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+## Domain Knowledge
+### Database
+#### Structure Database
+- SQL
+#### Graph Database
+- Neo4j
