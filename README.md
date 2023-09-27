@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/babebp/" target="blank">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
-<a href="https://medium.com/@tpacharawut.worka" target="blank">
+<a href="https://medium.com/@tpacharawut.work" target="blank">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" style="height: 3rem; background-color:white"/>
 </a>
 </p>
