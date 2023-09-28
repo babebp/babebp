@@ -1,5 +1,5 @@
 <h3 align="Center">Hi! I'm Babe</h3>
-<h3 align="Center">AI Engineer Student</h3>
+<h3 align="Center">AI Engineering Student</h3>
 <h3 align="Center">About me</h3>
 <p align="Center">Keep learning Data Engineer knowledge</p>
 
