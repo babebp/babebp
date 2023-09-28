@@ -21,4 +21,6 @@
 </a>
 <a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> 
 </a>
+<a href="https://cloud.google.com/storage" target="_blank"> <img src="https://k21academy.com/wp-content/uploads/2021/02/Google-Cloud-Storage-logo-1.png" alt="google cloud storage"  style="height: 3rem"/> 
+</a>
 </p>
