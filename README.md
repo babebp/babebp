@@ -19,3 +19,6 @@
     <img src="https://skillicons.dev/icons?i=python,bash,gcp&theme=light" />
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/>
 </p>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
