@@ -22,9 +22,4 @@
 
 <h3>Latest Medium blog post</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Data Maturity and Data Engineer](https://medium.com/@tpacharawut.work/data-maturity-and-data-engineer-8a67d8937ec8?source=rss-8fef63e505a------2)
-- [Install Anaconda for Data Science](https://medium.com/@tpacharawut.work/install-anaconda-for-data-science-eccbec4de94a?source=rss-8fef63e505a------2)
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 <!-- BLOG-POST-LIST:END -->
