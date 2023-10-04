@@ -20,6 +20,9 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/>
 </p>
 
-<h3>Latest Medium blog post</h3>
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<h3 align="Center">Latest Medium blog post</h3>
+<p align="Center">
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</p>
+
