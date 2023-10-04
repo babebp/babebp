@@ -23,7 +23,7 @@
 
 <h3>Latest Medium blog post</h3>
 
-<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:START -->
 - [Data Maturity and Data Engineer](https://medium.com/@tpacharawut.work/data-maturity-and-data-engineer-8a67d8937ec8?source=rss-8fef63e505a------2)
 - [Install Anaconda for Data Science](https://medium.com/@tpacharawut.work/install-anaconda-for-data-science-eccbec4de94a?source=rss-8fef63e505a------2)
 <!-- BLOG-POST-LIST:END -->
