@@ -25,6 +25,7 @@
 <h3>Latest Medium blog post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [What is HPC](https://medium.com/@babebpx/what-is-hpc-0e3f5da4b438?source=rss-8fef63e505a------2)
 - [Install Apache Kafka with Homebrew](https://medium.com/@babebpx/install-apache-kafka-with-homebrew-d865185b3e91?source=rss-8fef63e505a------2)
 - [Data Maturity and Data Engineer](https://medium.com/@babebpx/data-maturity-and-data-engineer-8a67d8937ec8?source=rss-8fef63e505a------2)
 - [Install Anaconda for Data Science](https://medium.com/@babebpx/install-anaconda-for-data-science-eccbec4de94a?source=rss-8fef63e505a------2)
