@@ -25,11 +25,11 @@
 <h3>Latest Medium blog post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Spark in HPC Cluster ?](https://medium.com/@babebpx/spark-in-hpc-cluster-d4545ed034b5?source=rss-8fef63e505a------2)
 - [TOP 3 HPC](https://medium.com/@babebpx/top-3-hpc-88b1ced4f6e1?source=rss-8fef63e505a------2)
 - [Trend AI ส่งผลอย่างไรกับ HPC](https://medium.com/@babebpx/trend-ai-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%9A-hpc-1387349d9348?source=rss-8fef63e505a------2)
 - [What is HPC](https://medium.com/@babebpx/what-is-hpc-0e3f5da4b438?source=rss-8fef63e505a------2)
 - [Install Apache Kafka with Homebrew](https://medium.com/@babebpx/install-apache-kafka-with-homebrew-d865185b3e91?source=rss-8fef63e505a------2)
-- [Data Maturity and Data Engineer](https://medium.com/@babebpx/data-maturity-and-data-engineer-8a67d8937ec8?source=rss-8fef63e505a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
