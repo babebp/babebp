@@ -25,11 +25,11 @@
 <h3>Latest Medium blog post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [JD for HPC Roles](https://medium.com/@babebpx/jd-for-hpc-roles-332e7f94e39c?source=rss-8fef63e505a------2)
 - [What is Slurm ??](https://medium.com/@babebpx/what-is-slurm-a1b48de51587?source=rss-8fef63e505a------2)
 - [Review Sierra HPC](https://medium.com/@babebpx/review-sierra-hpc-e2f48792fad1?source=rss-8fef63e505a------2)
 - [Spark in HPC Cluster ?](https://medium.com/@babebpx/spark-in-hpc-cluster-d4545ed034b5?source=rss-8fef63e505a------2)
 - [TOP 3 HPC](https://medium.com/@babebpx/top-3-hpc-88b1ced4f6e1?source=rss-8fef63e505a------2)
-- [Trend AI ส่งผลอย่างไรกับ HPC](https://medium.com/@babebpx/trend-ai-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%A5%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%E0%B8%81%E0%B8%B1%E0%B8%9A-hpc-1387349d9348?source=rss-8fef63e505a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
