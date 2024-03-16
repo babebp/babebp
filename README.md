@@ -25,11 +25,11 @@
 <h3>Latest Medium blog post</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Part 2/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebpx/part-2-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-1456bf28843b?source=rss-8fef63e505a------2)
+- [&lpar;Part 3/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebpx/part-3-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-863a4b6637ad?source=rss-8fef63e505a------2)
+- [&lpar;Part 1/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebpx/part-1-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-85c048b438d0?source=rss-8fef63e505a------2)
 - [JD for HPC Roles](https://medium.com/@babebpx/jd-for-hpc-roles-332e7f94e39c?source=rss-8fef63e505a------2)
 - [What is Slurm ??](https://medium.com/@babebpx/what-is-slurm-a1b48de51587?source=rss-8fef63e505a------2)
-- [Review Sierra HPC](https://medium.com/@babebpx/review-sierra-hpc-e2f48792fad1?source=rss-8fef63e505a------2)
-- [Spark in HPC Cluster ?](https://medium.com/@babebpx/spark-in-hpc-cluster-d4545ed034b5?source=rss-8fef63e505a------2)
-- [TOP 3 HPC](https://medium.com/@babebpx/top-3-hpc-88b1ced4f6e1?source=rss-8fef63e505a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
