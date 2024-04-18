@@ -1,7 +1,7 @@
 <h3 align="Center">Hi! I'm Babe</h3>
 <h3 align="Center">AI Engineering Student</h3>
 <h3 align="Center">About me</h3>
-<p align="Center">Keep learning Data Engineering knowledge</p>
+<p align="Center">Keep learning Computer Vision knowledge</p>
 
 <h3 align="Center">Connect with me</h3>
 <p align="Center">
