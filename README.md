@@ -25,11 +25,11 @@
 <h3>Latest Medium blog post</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Vision Experience in University](https://medium.com/@babebpx/computer-vision-experience-in-university-93c2bbcfeebc?source=rss-8fef63e505a------2)
-- [Data Engineer คือใคร](https://medium.com/@babebpx/data-engineer-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%84%E0%B8%A3-a606f809e125?source=rss-8fef63e505a------2)
-- [&lpar;Part 3/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebpx/part-3-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-eddc8a1c1088?source=rss-8fef63e505a------2)
-- [&lpar;Part 2/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebpx/part-2-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-1456bf28843b?source=rss-8fef63e505a------2)
-- [&lpar;Part 1/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebpx/part-1-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-85c048b438d0?source=rss-8fef63e505a------2)
+- [Computer Vision Experience in University](https://medium.com/@babebp/computer-vision-experience-in-university-93c2bbcfeebc?source=rss-8fef63e505a------2)
+- [Data Engineer คือใคร](https://medium.com/@babebp/data-engineer-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%84%E0%B8%A3-a606f809e125?source=rss-8fef63e505a------2)
+- [&lpar;Part 3/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebp/part-3-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-eddc8a1c1088?source=rss-8fef63e505a------2)
+- [&lpar;Part 2/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebp/part-2-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-1456bf28843b?source=rss-8fef63e505a------2)
+- [&lpar;Part 1/3&rpar; Review HPC Paper — Prodigy: Towards Unsupervised Anomaly Detection in Production HPC…](https://medium.com/@babebp/part-1-3-review-hpc-paper-prodigy-towards-unsupervised-anomaly-detection-in-production-hpc-85c048b438d0?source=rss-8fef63e505a------2)
 <!-- BLOG-POST-LIST:END -->
 
 
