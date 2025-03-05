@@ -17,7 +17,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,scala,bash,gcp,aws,selenium,docker" />
     <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" style="height: 3rem"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/>
   </a>
 </p>
 
